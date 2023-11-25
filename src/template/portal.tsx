@@ -46,8 +46,8 @@ const Portal: React.FC<Props> = ({ children, title, toolbar }) => {
 
       {/* HEADING */}
       <Stack direction='VERTICAL' space={'var(--scale-24)'} localStyles={{ alignItems: 'center' }}>
-        <Heading level='3'>{"PAYC LEGENDS"} Portal</Heading>
-        <Body size='M' localStyles={{ maxWidth: '60ch' }}>SELECT THE NFT YOU WOULD LIKE TO SEND THROUGH PORTAL AND THEN CLICK THE EXCHANGE BUTTON</Body>
+        <Heading level='3'>{"LEGENDS"} Portal</Heading>
+        <Body size='M' localStyles={{ maxWidth: '60ch' }}>THE LEGENDS MINT IS CLOSED, BUT YOU CAN STILL SWAP YOUR PORTALED LEGEND BACK AND FORTH</Body>
       </Stack>
 
       {/* GALLERY SECTION */}
